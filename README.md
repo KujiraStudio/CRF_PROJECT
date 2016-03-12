@@ -9,6 +9,8 @@ Ne pas oublier pour les noobs de Git :
 
 +Décocher le "UnityLockFile"
 
++Avant chaque séance de travail up le programme
+
 +Faire vos changements --> "Commit" --> "Sync"
 
 
